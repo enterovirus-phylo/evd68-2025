@@ -1,11 +1,13 @@
 # Code and Analyses related to the 2025 Analysis of Enterovirus Sequences in Europe
 
-This folder includes code and scripts related to the manuscript **LINK MANUSCRIPT HERE**.
+This folder includes code and scripts related to the manuscript **TODO: LINK MANUSCRIPT HERE**.
 
 You can [click here to view the Nextstrain tree](https://nextstrain.org/community/enterovirus-phylo/evd68-2025/vp1) used in analyses and shown in the manuscript.
+Sequences used in this analysis are available on Genbank **TODO: (accessions XX to XX).**
+Data on sample source (clinical or wastewater), country, sample date, and age range can be downloaded from the Nextstrain tree (see 'Download data' at the bottom of the page).
 
 ## Nextstrain Analysis
-Based on the [pre-2027 Nextstrain EV-D68 analysis pipeline](https://github.com/nextstrain/enterovirus_d68/releases/tag/1.2), modified for the analysis of 2025 EV-D68 sequences in Europe, as used in **LINK MANUSCRIPT HERE**.
+Based on the [pre-2027 Nextstrain EV-D68 analysis pipeline](https://github.com/nextstrain/enterovirus_d68/releases/tag/1.2), modified for the analysis of 2025 EV-D68 sequences in Europe, as used in **TODO: LINK MANUSCRIPT HERE**.
 
 The pipeline can be used to generate VP1, partial-VP1, and full-genome runs, but here was used to generate a special run - VP1-only with a threshold of >=700bp for sequences prior up to 2023, and >=300bp for sequences from 2024-2025.
 
