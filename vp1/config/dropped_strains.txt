@@ -1,0 +1,117 @@
+37_99
+EVD68/Homo_sapiens/XXX/ATCC_VR_1197/XXXX
+EV-D68/Homosapiens/USA/U797/2007__KX433167
+EV-D68/Homosapiens/USA/MO78/2009__KX261825
+CA/RESP/10-786__KM892500
+TTa-11-Ph344__KX789260
+NZ-2010-541__JX070222
+EV-D68/Kannur/MCVRAG4248/2017
+EV-D68/Kozhikode/MCVRAH1535/2017
+2016-R3936__MG547187
+2016-R4010__MG547204
+2016-R4150__MG547215
+2016-R4428__MG547194
+2016-R4483__MG547211
+2016-R4523__MG547217
+2016-R4559__MG547206
+2016-R4607__MG547184
+2016-R4839__MG547218
+2016-R4852__MG547212
+2016-R4855__MG547205
+2016-R4863__MG547192
+2016-R4934__MG547197
+2016-R5080__MG547210
+2016-R5147__MG547199
+2016-R5271__MG547183
+2016-R5928__MG547219
+2016-R6058__MG547214
+2016-R6091__MG547222
+2016-R6143__MG547213
+2017-R1150-1__MG547216
+2016-R5733__MG547200
+2016-R5734__MG547182
+2016-R5733__MH341722
+2016-R5734__MH341723
+EVD68_ESP_022_181119_NFLG
+US/MO/14-18949-Mouse__MH708882 #mouse-adapted virus
+US/MO/14-18949__MH708882 #mouse-adapted virus
+DK_19_2019 #for the moment is bad quality! too many ambig bases
+USA/2018-23201__MN389730  #cell culture isolate of clinical specimen MN245994
+USA/2018-23206__MN389731  #cell culture isolate of clinical specimen MN245999
+USA/2018-23209__MN389732  #cell culture isolate of clinical specimen MN246002
+USA/2018-23216__MN389733  #cell culture isolate of clinical specimen MN246009
+USA/2018-23252__MN389734  #cell culture isolate of clinical specimen MN246015
+USA/2018-23263__MN389735  #cell culture isolate of clinical specimen MN246026
+EV-D68/Homosapiens/USA/O622a/2012__KX255412 #divergence & date seem totally off - div puts in 2004, date is 2012
+CA/RESP/09-871__KM892497 #diverge & date seem off - div puts in 2009, date is 2013
+SH2808__KU242684 #end of this seq is very bad & cant be aligned
+HEV156010__KJ472882 # has A LOT of mutations at end - doesnt seem recomb - don't match w any other seq
+HEV137010__KJ472885 # has A LOT of mutations at end - doesnt seem recomb - don't match w any other seq
+2016-R6091 # very divergent - sequence not terrible. full genome fine. shares muts at end w 2016-R4460
+IRN11__MH250145 #very divergent
+USA/KY/2014-20238__MF160035 #very divergent
+MY/2020/2195087__MZ384008 #very divergent
+SP_DEC14_12660_R__MN403127 #lots of missing bases, divergent
+SP_OCT14_41429_R__MN403260 #lots of missing bases, divergent
+SP_NOV14_47091_R__MN403255 #lots of missing bases, divergent
+SP_DEC14_12655_R__MN403126 #lots of missing bases, divergent
+EV-D68/human/Germany/LE-A61GHD3/2016__MW731827 #lots of missing bases, divergent
+EVD68_Capsid_ENG_Sep21c #identical to SWG_ENG_Sep21c, so exclude (longer seq, if needed another time!)
+EVD68_Capsid_ENG_Oct21c #identical to SWG_ENG_Oct21c, so exclude (longer seq, if needed another time!)
+EVD68_Capsid_ENG_Sep21a #identical to SWG_ENG_Sep21a, so exclude (longer seq, if needed another time!)
+EVD68_Capsid_ENG_Oct21d #identical to SWG_ENG_Oct21d, so exclude (longer seq, if needed another time!)
+EVD68_Capsid_ENG_Oct21e #identical to SWG_ENG_Oct21e, so exclude (longer seq, if needed another time!)
+EVD68_Capsid_ENG_Sep21e #identical to SWG_ENG_Sep21e, so exclude (longer seq, if needed another time!)
+USA/MN/2003-23220__MN240496 #underdiverged, usually removed by treetime
+UNKNOWN-AY355268__AY355268 #seems problematic, often messes up rooting
+PUMCH7495Aug08__JN169107 #ragged tail - impacts tree
+PUMCH7487Aug08__JN169112 #ragged tail - impacts tree
+PUMCH3223Aug06__JN169114 #ragged tail - impacts tree
+PUMCH3653Oct06__JN169113 #ragged tail - impacts tree
+PUMCH3266Aug06__JN169116 #ragged tail - impacts tree
+PUMCH3391Sep06__JN169111 #ragged tail - impacts tree
+PUMCH3543Sep06__JN169118 #ragged tail - impacts tree
+PUMCH3036Aug06__JN169109 #ragged tail - impacts tree
+PUMCH3542Sep06__JN169108 #ragged tail - impacts tree
+PUMCH3245Aug06__JN169115 #ragged tail - impacts tree
+PUMCH3271Aug06__JN169110 #ragged tail - impacts tree
+PUMCH3747Oct06__JN169117 #ragged tail - impacts tree
+BE02-21-13 #2021 sequence but underdiverged - looks like 2019
+BE02-21-16 # very bad quality sequence that maaft can't align properly
+#ES01-21-168 #ragged tail - impacts tree - gone from data now
+#ES01-21-165 #ragged tail - impacts tree
+#IE01-21-06 #ragged tail - impacts tree
+#NL04-21-05 #ragged tail - impacts tree
+#NL04-21-12 #ragged tail - impacts tree
+#ES01-21-18 #ragged tail - impacts tree
+#ES01-21-21 #ragged tail - impacts tree
+#IT01-21-08 #ragged tail - impacts tree
+#BE02-21-10 #ragged tail - impacts tree
+#UK01-21-01 #really over diverged
+F02-3607 Corn  # commercial reference standard sequence 
+F02-3607Corn__PP025902 # commercial reference standard sequence 
+UNKNOWN-AY355268__AY355268  # very overdiverged, clusters with the ref seq above. Labelled Rhino87
+IRN4__MH250143 # deeply underdiverged (may only show up in 300bp builds)
+FIN05-ENV-Imatra__KP137817 #overdiverged, 300bp, from 2005
+FIN05-EV05-13__KP137815  #overdiverged, 300bp, from 2005
+EV-D68/SWG-BEC-08Sep16__MN018238 #believe this is resquenced (longer) in EV-D68/SWG-BEC-08Sep16__MK377390
+EV-D68/SWG-BEC-09Aug16__MN018245 #believe this is resquenced (longer) in EV-D68/SWG-BEC-09Aug16__MK377391
+EV-D68/SWG-BEC-09Oct18__MN018253 #believe this is resquenced (longer) in EV-D68/SWG-BEC-09Oct18__MK377392
+EV-D68/SWG-BEC-12Jul16__MN018237 #believe this is resquenced (longer) in EV-D68/SWG-BEC-12Jul16__MK377389
+EV-D68/SWG-DAL-25Nov15__MN018241 #believe this is resquenced (longer) in EV-D68/SWG-DAL-25Nov15__MK377395
+EV-D68/SWG-DAL-27Jan16__MN018242 #believe this is resquenced (longer) in EV-D68/SWG-DAL-27Jan16__MK377396
+EV-D68/SWG-DAL-29Aug18__MN018246 #believe this is resquenced (longer) in EV-D68/SWG-DAL-29Aug18__MK377399
+EV-D68/SWG-DAL-30Sep15__MN018244 #believe this is resquenced (longer) in EV-D68/SWG-DAL-30Sep15__MK377397
+EV-D68/SWG-DAL-31Aug16__MN018240 #believe this is resquenced (longer) in EV-D68/SWG-DAL-31Aug16__MK377400
+EV-D68/SWG-DAL29Jun16__MN018239 #believe this is resquenced (longer) in EV-D68/SWG-DAL-29Jun16__MK377394
+EV-D68/SWG-SHI-17Dec14__MN018235 #believe this is resquenced (longer) in EV-D68/SWG-SHI-17Dec14__MK377402
+EV-D68/SWG-SHI-21Jan15__MN018254 #believe this is resquenced (longer) in EV-D68/SWG-SHI-21Jan15__MK377403
+EV-D68/SWG-SHI-25Nov15__MN018243 #believe this is resquenced (longer) in EV-D68/SWG-SHI-25Nov15__MK377404
+EV-D68/SWG-SHI-29Aug18__MN018252 #believe this is resquenced (longer) in EV-D68/SWG-SHI-29Aug18__MK377406
+HUVH-111881340 # though from 2025, roots near base of tree, seems very odd. Recombinant?
+ITA/MI-POL15/2022__PQ415024 # very underdiverged
+ITA/MI-POL21/2022__PQ415019 # very underdiverged
+ITA/MI-POL8/2022__PQ415022 # very underdiverged
+ITA/MI-POL5/2022__PQ415020 # very underdiverged
+ITA/MI-POL9/2022__PQ415023 # very underdiverged
+ITA/MI-POL7/2022__PQ415021 # very underdiverged

@@ -1,3 +1,23 @@
+.snakemake
+.env
+
+genome/auspice/
+genome/data/
+genome/temp/
+genome/genbank/
+genome/results
+vp1/auspice/
+vp1/data/
+vp1/genbank/
+vp1/results/
+vp1/temp/
+
+data/
+
+#Script used to ensure raw ages removed from 2025 seqs before upload
+remove_age.py 
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
