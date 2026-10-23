@@ -3,7 +3,7 @@
 This folder includes code and scripts related to the manuscript **TODO: LINK MANUSCRIPT HERE**.
 
 You can [click here to view the Nextstrain tree](https://nextstrain.org/community/enterovirus-phylo/evd68-2025/vp1) used in analyses and shown in the manuscript.
-Sequences used in this analysis are available on Genbank **TODO: (accessions XX to XX).**
+Sequences used in this analysis are available on Genbank (see manuscript for accessions.)
 Data on sample source (clinical or wastewater), country, sample date, and age range can be downloaded from the Nextstrain tree (see 'Download data' at the bottom of the page).
 
 ## Nextstrain Analysis
