@@ -37,9 +37,9 @@
       "key": "region"
     },
     {
+      "title": "Contributing Lab 2025",
       "type": "categorical",
-      "title": "Collaborators",
-      "key": "collab_country"
+      "key": "source_2025"
     },
     {
       "title": "Date Added",
@@ -82,14 +82,9 @@
       "key": "CTERM"
     },
     {
-      "title": "AA Changes in 2024 (Pos 148,178,297)",
+      "title": "AA Changes in 2025 (Pos 148,178,297)",
       "type": "categorical",
       "key": "AA-2025"
-    },
-    {
-      "title": "Focal Country",
-      "type": "categorical",
-      "key": "focal_country"
     },
     {
       "title": "Sample Type",
@@ -109,6 +104,10 @@
     {
       "name": "GenBank",
       "url": "https://www.ncbi.nlm.nih.gov/genbank/"
+    },
+        {
+      "name": "ENPEN Collaborators",
+      "url": "https://escv.eu/european-non-polio-enterovirus-network-enpen/"
     }
   ],
   "filters": [
@@ -117,7 +116,7 @@
     "clade_membership",
     "age_range1",
     "symptom",
-    "collab_country",
+    "source_2025",
     "date_added"
   ],
   "display_defaults": {

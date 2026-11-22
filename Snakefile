@@ -1215,10 +1215,23 @@ rule add_extra_meta:
             --meta-out {output.meta}
         """
 
+rule add_source_2025:
+    input:
+        metadata = rules.add_extra_meta.output.meta,
+        matching = "data/matchin_seq_to_site.tsv"
+    output:
+        meta = "{length}/results/metadata_subgeno_seqlen_dupcol_extramet_source2025{gene}{min_len}{max_year}.tsv"
+    shell:
+        """
+        python scripts/add_source_2025.py --metadata {input.metadata} \
+            --matching-file {input.matching} \
+            --output {output.meta}
+        """
+
 rule export_vp1:
     input:
         tree = rules.refine.output.tree,
-        metadata = rules.add_extra_meta.output.meta, #rules.add_age.output.meta, 
+        metadata = rules.add_source_2025.output.meta, #rules.add_age.output.meta, 
         branch_lengths = rules.refine.output.node_data,
         nt_muts = rules.ancestral.output.nt_data,
         aa_muts = rules.translate.output.aa_data,
@@ -1252,7 +1265,7 @@ rule export_vp1:
 rule export_genome:
     input:
         tree = rules.refine.output.tree,
-        metadata = rules.add_age.output.meta, #"results/metadata-ages-src.tsv",
+        metadata = rules.add_source_2025.output.meta, #rules.add_age.output.meta, 
         branch_lengths = rules.refine.output.node_data,
         nt_muts = rules.ancestral.output.nt_data,
         aa_muts = rules.translate.output.aa_data,
